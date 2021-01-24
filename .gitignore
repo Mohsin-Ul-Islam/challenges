@@ -1,6 +1,4 @@
 # Executable and object files
 *.out
 *.o
-
-# solution files
-solution.cpp
+solution
